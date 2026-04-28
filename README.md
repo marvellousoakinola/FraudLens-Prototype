@@ -1,13 +1,3 @@
-<img width="1366" height="694" alt="FraudLens Scan result - normal URL 1" src="https://github.com/user-attachments/assets/e7ef1d50-e519-498e-aaa7-0e3df1ae9821" />
-<img width="1366" height="701" alt="FraudLens Scan page-phishing URL" src="https://github.com/user-attachments/assets/df47e8d1-3220-446e-8527-a605c6e9d20c" />
-<img width="1366" height="701" alt="FraudLens Scan page-normal URL" src="https://github.com/user-attachments/assets/490dd754-1607-4b3b-95cc-9dd0e04c5e12" />
-<img width="1366" height="699" alt="Fraudlens - Scan History page" src="https://github.com/user-attachments/assets/d43eb6d5-6dc5-4a8e-9ad9-7faf480c6b47" />
-<img width="1366" height="701" alt="FraudLens-Signuppage" src="https://github.com/user-attachments/assets/72ac79af-0dbf-46d2-aa07-1f01f92a77af" />
-<img width="1366" height="699" alt="FraudLens-Landingpage" src="https://github.com/user-attachments/assets/408442e7-e16f-4051-8a55-d171eeb47002" />
-<img width="1366" height="699" alt="FraudLens-Dashoard" src="https://github.com/user-attachments/assets/b4d23a40-c8cf-48b7-af1e-f872405783e9" />
-<img width="1366" height="699" alt="FraudLens Scan result - phishing URL 2" src="https://github.com/user-attachments/assets/78cf568a-faec-4dda-a32c-87bcd570037b" />
-<img width="1366" height="699" alt="FraudLens Scan result - phishing URL 1" src="https://github.com/user-attachments/assets/891db725-f7a2-4483-9588-4cebbd77eb71" />
-<img width="1366" height="697" alt="FraudLens Scan result - normal URL 2" src="https://github.com/user-attachments/assets/b242b194-55d2-4144-b2af-c41198aafc10" />
 # FraudLens
 
 <div align="center">
@@ -34,39 +24,50 @@ FraudLens is an advanced cybersecurity application that enables users to scan, d
 - **Account Settings**: Advanced management sections including Profile, Security Settings, Appearance Preferences, Notifications, API Integration Keys, Documentation, and Billing.
 - **Responsive Architecture**: Mobile-first design crafted with Tailwind CSS for seamless functionality across devices.
 - **Fluid Layout**: Integrated page transitions via Framer Motion for a polished native-app feel.
+
 ## Screenshots
 
-### 1. Signup Page
-![FraudLens Signup Page](attachments/FraudLens-Signuppage.png)
-*Clean and modern signup interface for new users.*
+### Landing Page
+![FraudLens Landing Page](https://github.com/user-attachments/assets/408442e7-e16f-4051-8a55-d171eeb47002)
+*Modern landing page with the tagline "Detect fraud before it detects you."*
 
-### 2. Dashboard
-![FraudLens Dashboard](attachments/FraudLens-Dashoard.png)
+### Signup Page
+![FraudLens Signup Page](https://github.com/user-attachments/assets/72ac79af-0dbf-46d2-aa07-1f01f92a77af)
+*Clean and professional signup interface for security professionals.*
+
+### Dashboard
+![FraudLens Dashboard](https://github.com/user-attachments/assets/b4d23a40-c8cf-48b7-af1e-f872405783e9)
 *Main dashboard showing current risk levels and overall security posture (Risk Score: 00 - Secure).*
 
-### 3. Scan Center
+### Scan Center
+
 **Scanning a legitimate URL:**
-![Scan Center - Normal URL](attachments/FraudLens%20Scan%20page-normal%20URL.png)
-*Interface for initiating URL/domain analysis (example: https://google.com).*
+![Scan Center - Normal URL](https://github.com/user-attachments/assets/490dd754-1607-4b3b-95cc-9dd0e04c5e12)
 
-**Scanning a suspicious/phishing URL:**
-![Scan Center - Phishing URL](attachments/FraudLens%20Scan%20page-phishing%20URL.png)
-*Scan Center with a fake PayPal login URL entered for testing.*
+**Scanning a phishing URL:**
+![Scan Center - Phishing URL](https://github.com/user-attachments/assets/df47e8d1-3220-446e-8527-a605c6e9d20c)
 
-### 4. Scan Results - Legitimate URL
-![Analysis Report - Clean URL](attachments/FraudLens%20Scan%20result%20-%20normal%20URL%201.png)
-*Successful analysis of a legitimate site (Google) showing low risk score and clean status.*
+### Scan Results - Legitimate URL
 
-![Intelligence Summary - Normal URL](attachments/FraudLens%20Scan%20result%20-%20normal%20URL%202.png)
-*Detailed intelligence summary for a benign URL.*
+**Clean Analysis Report:**
+![Analysis Report - Clean URL](https://github.com/user-attachments/assets/e7ef1d50-e519-498e-aaa7-0e3df1ae9821)
+*Successful scan of a legitimate website (Google) showing minimal risk.*
 
-### 5. Scan Results - Phishing URL
-![Analysis Report - Phishing Detection](attachments/FraudLens%20Scan%20result%20-%20phishing%20URL%202.png)
-*Detection of a suspicious PayPal phishing attempt with clear warning indicators.*
+**Intelligence Summary:**
+![Intelligence Summary - Normal URL](https://github.com/user-attachments/assets/b242b194-55d2-4144-b2af-c41198aafc10)
 
-### 6. Scan History
-![Scan History Page](attachments/Fraudlens%20-%20Scan%20History%20page.png)
-*History page showing previous scans, including flagged phishing attempts and clean URLs with their respective risk scores.*
+### Scan Results - Phishing Detection
+
+**Phishing URL Detected:**
+![Phishing Detection Result](https://github.com/user-attachments/assets/78cf568a-faec-4dda-a32c-87bcd570037b)
+*Clear detection of a fake PayPal login page as a potential phishing attempt.*
+
+**Additional Phishing Scan Result:**
+![Phishing Scan Result 2](https://github.com/user-attachments/assets/891db725-f7a2-4483-9588-4cebbd77eb71)
+
+### Scan History
+![Scan History Page](https://github.com/user-attachments/assets/d43eb6d5-6dc5-4a8e-9ad9-7faf480c6b47)
+*History page showing previous scans with risk scores, including flagged phishing attempts.*
 
 ## 🛠️ Technology Stack
 
