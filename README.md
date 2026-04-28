@@ -24,6 +24,39 @@ FraudLens is an advanced cybersecurity application that enables users to scan, d
 - **Account Settings**: Advanced management sections including Profile, Security Settings, Appearance Preferences, Notifications, API Integration Keys, Documentation, and Billing.
 - **Responsive Architecture**: Mobile-first design crafted with Tailwind CSS for seamless functionality across devices.
 - **Fluid Layout**: Integrated page transitions via Framer Motion for a polished native-app feel.
+## Screenshots
+
+### 1. Signup Page
+![FraudLens Signup Page](attachments/FraudLens-Signuppage.png)
+*Clean and modern signup interface for new users.*
+
+### 2. Dashboard
+![FraudLens Dashboard](attachments/FraudLens-Dashoard.png)
+*Main dashboard showing current risk levels and overall security posture (Risk Score: 00 - Secure).*
+
+### 3. Scan Center
+**Scanning a legitimate URL:**
+![Scan Center - Normal URL](attachments/FraudLens%20Scan%20page-normal%20URL.png)
+*Interface for initiating URL/domain analysis (example: https://google.com).*
+
+**Scanning a suspicious/phishing URL:**
+![Scan Center - Phishing URL](attachments/FraudLens%20Scan%20page-phishing%20URL.png)
+*Scan Center with a fake PayPal login URL entered for testing.*
+
+### 4. Scan Results - Legitimate URL
+![Analysis Report - Clean URL](attachments/FraudLens%20Scan%20result%20-%20normal%20URL%201.png)
+*Successful analysis of a legitimate site (Google) showing low risk score and clean status.*
+
+![Intelligence Summary - Normal URL](attachments/FraudLens%20Scan%20result%20-%20normal%20URL%202.png)
+*Detailed intelligence summary for a benign URL.*
+
+### 5. Scan Results - Phishing URL
+![Analysis Report - Phishing Detection](attachments/FraudLens%20Scan%20result%20-%20phishing%20URL%202.png)
+*Detection of a suspicious PayPal phishing attempt with clear warning indicators.*
+
+### 6. Scan History
+![Scan History Page](attachments/Fraudlens%20-%20Scan%20History%20page.png)
+*History page showing previous scans, including flagged phishing attempts and clean URLs with their respective risk scores.*
 
 ## 🛠️ Technology Stack
 
